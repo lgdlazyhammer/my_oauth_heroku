@@ -1,0 +1,23 @@
+{
+  "name": "my_oauth_resource_owner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.13.0",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "random-strings": "0.0.1",
+    "request-ip": "^1.2.2"
+  }
+}
